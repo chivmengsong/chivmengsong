@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chiv Meng Song (Song)
+# CHIV Meng Song (Song)
 ### Solo Founder & Systems Architect
 *Self-taught since age 15 — from shipping early games on the Play Store to building autonomous AI engineering ecosystems, low-level kernels, and verifiable systems.*
 
