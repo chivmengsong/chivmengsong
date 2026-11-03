@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chiv Meng Song (Song)
+# Chiv Meng Song (谢明松)
 ### Solo Founder & Systems Architect
 *Self-taught since age 15 — from shipping early games on the Play Store to building autonomous AI engineering ecosystems, low-level kernels, and verifiable systems.*
 
@@ -40,11 +40,11 @@ My work runs on one closed loop:
 
 <div align="center">
 
-**Intent → Model → Spec → Build → Verify → Evidence ↺ Model**
+**Intent → Model → Spec → Build → Verify → Record**
 
 </div>
 
-Every system should be explainable, testable, and built with explicit boundaries where human authority remains absolute.
+Every record flows back into the model. Every system should be explainable, testable, and built with explicit boundaries where human authority remains absolute.
 
 <details>
 <summary><b>The loop in full: ten stages</b></summary>
