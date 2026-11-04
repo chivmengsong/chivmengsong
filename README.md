@@ -2,7 +2,7 @@
 
 # Chiv Meng Song (谢明松)
 
-<img src="potrait.jpg" width="360" alt="Portrait artwork: a figure crouched in a dark leather armchair before a wall of circuit lines, a red apple at its feet, captioned Chiv Meng Song (谢明松) and 'Act against the dark age. Build what endures.'">
+<img src="potrait_2.jpg" width="360" alt="Portrait artwork: a figure crouched in a dark leather armchair before a wall of circuit lines, a red apple at its feet, captioned Chiv Meng Song (谢明松) and 'Act against the dark age. Build what endures.'">
 
 ### Solo Founder & Systems Architect
 
