@@ -1,8 +1,12 @@
 <div align="center">
 
 # Chiv Meng Song (谢明松)
+
+<img src="assets/portrait.jpg" width="360" alt="Portrait artwork: a figure crouched in a dark leather armchair before a wall of circuit lines, a red apple at its feet, captioned Chiv Meng Song (谢明松) and 'Act against the dark age. Build what endures.'">
+
 ### Solo Founder & Systems Architect
-*Self-taught since age 15 — from shipping early games on the Play Store to building autonomous AI engineering ecosystems, low-level kernels, and verifiable systems.*
+
+***Act against the dark age. Build what endures.***
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/meng-song-chiv/)
 [![X (Twitter)](https://img.shields.io/badge/X-%40xiemengsong-black?style=flat-square&logo=x)](https://x.com/xiemengsong)
@@ -12,31 +16,51 @@
 
 ---
 
+### 📖 The Story
+
+I started at fifteen, with no teacher and no budget. I drew my first game on paper at school, built it in Unity, painted it in GIMP and shipped it on Google Play.
+
+Since then I have followed every system down to the layer where it can be proven: from game loops to backend services, from services to kernels and exploits, and now from the code I write to the code that machines write.
+
+That last step is the one that matters most. Machines can already write software faster than people can read it. When no one can verify what is built, knowledge stops being something we can trust and hand on, and that is how a dark age begins. So I build the opposite: foundations where every act is signed, every result is checked by another hand, and human authority remains absolute.
+
+---
+
 ### 🎯 Mission
-**I build verifiable foundations for autonomous AI engineering — from the kernel up — so that people can trust what machines build.**
+
+**I build verifiable foundations for autonomous AI engineering, from the kernel up, so that people can trust what machines build.**
 
 For civilization and humanity.
 
 ---
 
 ### 🧭 Principles
+
 1. **Nothing is built from air.** Every build traces back to a model, and every model back to evidence.
 2. **Human authority remains absolute.** When an act needs authority and no human gives it, the act waits.
 3. **No maker checks their own work.** Every result is reviewed by another hand before it is accepted.
 4. **Bind before you build.** Proven open standards come first; invent only what is missing.
-5. **Every act leaves a record.** Signed, hash-chained, and open to verification.
+5. **Every act leaves a record.** Signed, hash-chained and open to anyone who wants to verify it.
 
 ---
 
 ### 🔭 Currently Building
-A verifiable, multi-agent engineering ecosystem with its own kernel, constitution, grammar and protocols, where every model family works as an accountable actor in its own sandbox, and every task, contract and result leaves a signed record. In private development; the white paper comes first.
+
+A verifiable, multi-agent engineering ecosystem with its own kernel, constitution, grammar and protocols.
+
+- Every model family works in it as an accountable actor, in its own sandbox.
+- Every task, contract and result leaves a signed record.
+- People and agents build side by side from one shared blueprint.
+
+In private development. The white paper comes first.
 
 ---
 
-### 🧠 Architectural Philosophy & Approach
-I operate at the intersection of **tacit builder intuition** (shipping real systems from the bare metal up) and **explicit systems engineering** (formalizing architecture, cybersecurity, and deterministic verification).
+### 🧠 How I Work
 
-My work runs on one closed loop:
+I join a builder's instinct, from years of shipping real systems from the bare metal up, with explicit engineering: formal architecture, security and verification.
+
+All of my work runs on one loop, and every record flows back into the model:
 
 <div align="center">
 
@@ -44,7 +68,7 @@ My work runs on one closed loop:
 
 </div>
 
-Every record flows back into the model. Every system should be explainable, testable, and built with explicit boundaries where human authority remains absolute.
+I write code alongside AI agents. The model and the spec are our shared language, so any implementer, human or agent, can build from them, and a different hand checks every result.
 
 <details>
 <summary><b>The loop in full: ten stages</b></summary>
@@ -64,22 +88,22 @@ Every record flows back into the model. Every system should be explainable, test
 
 ---
 
-### ⚙️ Core Engineering Pillars
+### ⚙️ What I Build
 
 * **🤖 AI Engineering & Autonomous Workflows**
-  * Multi-agent orchestration across model families, each agent an accountable actor in its own sandboxed runtime.
-  * Mixture-of-Experts (MoE) systems: small local expert models for embedding, reasoning and domain work, behind one router and beside frontier models.
-  * Local inference pipelines, vector and semantic knowledge graphs, and agent gateways (MCP, A2A, OpenClaw) that bind local models into live workflows.
-* **📐 Spec-Driven & Model-Driven Design**
-  * Connecting system requirements, formal architecture, implementation, and verifiable audit trails in one model.
-  * Bridging intent to execution through immutable, hash-chained records and transparent state tracking.
+  * Multi-agent orchestration across model families, with each agent an accountable actor that has its own identity, sandbox and record.
+  * Mixture-of-Experts (MoE) routing: small local expert models for embedding, reasoning and domain work, beside frontier models behind one router.
+  * Local inference, vector and semantic knowledge graphs, and agent gateways (MCP, A2A, OpenClaw) that bring local models into live workflows.
+* **📐 Spec-Driven & Model-Driven Engineering**
+  * One model that connects requirements, architecture, code, tests and the audit trail.
+  * Specifications and blueprints complete enough for any implementer, human or agent, to build from.
   * Formal specification and proof of critical invariants (TLA+, Why3).
-* **🛡️ Low-Level Systems, Protocols & Cybersecurity**
-  * Custom kernel development, low-level systems programming, and vulnerability research/exploit development (red and blue).
-  * Designing decentralized, cryptographic, and Bitcoin-class protocols from first principles.
-  * Software supply-chain integrity: content addressing, signing, and transparency logs.
+* **🛡️ Low-Level Systems, Protocols & Security**
+  * Custom kernels and low-level systems programming; vulnerability research and exploit development, red and blue.
+  * Decentralized, cryptographic and Bitcoin-class protocols, designed from first principles.
+  * Software supply-chain integrity: content addressing, signing and transparency logs.
 * **🚀 End-to-End Product Execution**
-  * High-reliability backend services, internal developer tooling, structured UX, and foundational game engine loops (rooted in early game development).
+  * High-reliability backend services, internal developer tooling, structured UX and game-engine loops, rooted in early game development.
 
 ---
 
@@ -122,7 +146,7 @@ Every record flows back into the model. Every system should be explainable, test
 
 ### 🛠️ Domains & Tools
 
-| Category | Technologies & Methodologies |
+| Category | Technologies & Methods |
 | :--- | :--- |
 | **Low-Level & Systems** | Custom Kernels, Exploit Development, Vulnerability Research, Cryptography, P2P Protocols |
 | **Backend & Architecture** | Distributed Systems, Systems Architecture, Clean Architecture, High-Reliability Services |
@@ -134,14 +158,16 @@ Every record flows back into the model. Every system should be explainable, test
 
 ---
 
-### 🤝 Standing on the Shoulders Of
-I bind proven open work before inventing anything new. With gratitude to
+### 🤝 Standing on the Shoulders of Giants
+
+I bind proven open work before I invent anything new. With gratitude to
 [Sigstore](https://www.sigstore.dev) · [TLA+](https://lamport.azurewebsites.net/tla/tla.html) · [Why3](https://www.why3.org) · [LikeC4](https://likec4.dev) · [Ollama](https://ollama.com) · [Hugging Face](https://huggingface.co) · [Model Context Protocol](https://modelcontextprotocol.io) · [A2A](https://a2a-protocol.org) · [OpenClaw](https://openclaw.ai) · [Open Policy Agent](https://www.openpolicyagent.org) · [libGDX](https://libgdx.com)
 
 ---
 
-### 📫 Connect & Exchange Ideas
-I’m always open to connecting with fellow engineers, researchers, and founders who care about deep systems architecture, verifiable software, and autonomous workflows.
+### 📫 Connect
+
+I want to hear from engineers, researchers and founders who care about deep systems architecture, verifiable software and autonomous engineering.
 
 * **LinkedIn:** [meng-song-chiv](https://linkedin.com/in/meng-song-chiv/)
-* **X (Twitter):** [@xiemengsong](https://x.com/xiemengsong)
+* **X (Twitter):** [@xiemengsong](https://x.com/xiemengsong)<img width="1152" height="1712" alt="potrait" src="https://github.com/user-attachments/assets/8ca2d9b3-d689-42ed-9241-eb1851aa011e" />
