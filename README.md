@@ -140,14 +140,6 @@ I bind proven open work before inventing anything new. With gratitude to
 
 ---
 
-### 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chivmengsong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-</div>
-
----
-
 ### 📫 Connect & Exchange Ideas
 I’m always open to connecting with fellow engineers, researchers, and founders who care about deep systems architecture, verifiable software, and autonomous workflows.
 
