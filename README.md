@@ -2,7 +2,7 @@
 
 # Chiv Meng Song (谢明松)
 
-<img src="assets/portrait.jpg" width="360" alt="Portrait artwork: a figure crouched in a dark leather armchair before a wall of circuit lines, a red apple at its feet, captioned Chiv Meng Song (谢明松) and 'Act against the dark age. Build what endures.'">
+<img src="potrait.jpg" width="360" alt="Portrait artwork: a figure crouched in a dark leather armchair before a wall of circuit lines, a red apple at its feet, captioned Chiv Meng Song (谢明松) and 'Act against the dark age. Build what endures.'">
 
 ### Solo Founder & Systems Architect
 
@@ -170,4 +170,4 @@ I bind proven open work before I invent anything new. With gratitude to
 I want to hear from engineers, researchers and founders who care about deep systems architecture, verifiable software and autonomous engineering.
 
 * **LinkedIn:** [meng-song-chiv](https://linkedin.com/in/meng-song-chiv/)
-* **X (Twitter):** [@xiemengsong](https://x.com/xiemengsong)<img width="1152" height="1712" alt="potrait" src="https://github.com/user-attachments/assets/8ca2d9b3-d689-42ed-9241-eb1851aa011e" />
+* **X (Twitter):** [@xiemengsong](https://x.com/xiemengsong)
